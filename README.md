@@ -1,4 +1,5 @@
 Live link : https://mansiiihedaoo.github.io/parallax-website/
+
 **Parallax Effect**
 Parallax Effect is a web project that demonstrates the parallax scrolling technique using HTML, CSS, and images.
 
